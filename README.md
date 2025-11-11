@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Will Giles</h1>
+<h1 align="center">Hi, I'm Will Giles</h1>
 <h3 align="center">Aspiring Software Engineer/ Cloud Engineer | Computer Science Student at Aston University | Eager to learn and grow in this Industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willg06&label=Profile%20views&color=0e75b6&style=flat" alt="willg06" /> </p>

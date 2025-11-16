@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willg06" alt="willg06" /></a> </p>
 
-- 🔭 I’m currently working on [A Bookmark Aggregator](https://willg06.github.io/BookmarkAggregator/)
+-  I’m currently working on [A Bookmark Aggregator](https://willg06.github.io/BookmarkAggregator/)
 
-- 🌱 I’m currently learning **to improve my knowledge in many languages a little at a time.**
+-  I’m currently learning **to improve my knowledge in many languages a little at a time.**
 
-- My favourite project has to be my [Website CV](https://willg06.github.io/WebsiteCV)
+-  My favourite project has to be my [Website CV](https://willg06.github.io/WebsiteCV)
 
-- 👨‍💻 All of my projects are available at [https://github.com/WillG06](https://github.com/WillG06)
+-  All of my projects are available at [https://github.com/WillG06](https://github.com/WillG06)
 
-- 💬 Ask me about **my website portfolio.**
+-  Ask me about **my website portfolio.**
 
-- 📫 How to reach me **240115551@aston.ac.uk / OR / giles.william17@outlook.com**
+-  How to reach me **240115551@aston.ac.uk / OR / giles.william17@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

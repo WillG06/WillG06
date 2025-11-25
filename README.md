@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willg06" alt="willg06" /></a> </p>
 
--  I’m currently working on [A Bookmark Aggregator](https://willg06.github.io/BookmarkAggregator/), an AI Chatbot for my dads business and a Professional Website for a local pub.
+-  I’m currently working on [A Bookmark Aggregator](https://willg06.github.io/BookmarkAggregator/), an **AI Chatbot** for my dads business and a **Professional Website** for a local pub.
 
 -  I’m currently learning **to improve my knowledge in many languages a little at a time.**
 

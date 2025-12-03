@@ -15,7 +15,7 @@
 
 -  Ask me about **my website portfolio.**
 
--  How to reach me **240115551@aston.ac.uk / OR / giles.william17@outlook.com**
+-  How to reach me:  **240115551@aston.ac.uk / OR / giles.william17@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
